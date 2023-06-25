@@ -1,7 +1,7 @@
-- 👋 Olá, Eu sou Tales Henrique, me formei na faculdade de Direito em Dezembro de 2020 pela Faculdade de Pará de Minas-MG, curso este que fiz com intuito de prestar concurso público, no entanto no início de 2022 decidi conhecer área de Tecnologia da Informação devido a gostar muito de computadores e ter curiosidade como funcionava os programas, a coleta de dados, a segurança dos sites entre outros. Assim que dava meu primeiro passo para essa área ja me apaixonei e decidi mudar o rumo da minha vida e seguir essa carreira tão maravilhosa. Começando então uma nova faculdade agora de Análise e Desenvolvimento de Sistemas na INFNET. 
-- 👀 Eu estou interessado atualmente na área da programação e conhecendo suas linguagens e área de cybersegurança como pentester.
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
-- 🖥️ Procuro colaborar em projetos para aperfeiçoar minhas habilidades e conhecimentos, com intuito de crescer cada vez mais.
+👋 Olá, sou Tales Henrique, formado em Direito. No entanto, minha paixão pela programação me levou a explorar o campo da Tecnologia da Informação. Fascinado por computadores e curioso sobre o funcionamento dos programas, coleta de dados e segurança de sites, decidi seguir uma carreira nessa área maravilhosa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na INFNET.
+👀 Meu interesse atual está voltado para a programação, especialmente na área de Inteligência Artificial.
+🌱 Já tive contato com várias linguagens de programação, incluindo HTML, CSS, JavaScript, TypeScript, Python e React. Embora também tenha tido algum contato com Java e C#, a linguagem com a qual mais me identifico e pretendo me especializar é o Python.
+🖥️ Estou sempre em busca de oportunidades para colaborar em projetos, a fim de aprimorar minhas habilidades e conhecimentos, visando um crescimento constante.
 - 📫 Contato: E-mail: taleshmm@hotmail.com / Instagram: @taleshmm / GitHub: @taleshmm / Linkedin: https://www.linkedin.com/in/taleshmm/
 
 <!---
