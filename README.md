@@ -1,8 +1,9 @@
-👋 Olá, sou Tales Henrique, formado em Direito. No entanto, minha paixão pela programação me levou a explorar o campo da Tecnologia da Informação. Fascinado por computadores e curioso sobre o funcionamento dos programas, coleta de dados e segurança de sites, decidi seguir uma carreira nessa área maravilhosa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na INFNET.
-👀 Meu interesse atual está voltado para a programação, especialmente na área de Inteligência Artificial.
-🌱 Já tive contato com várias linguagens de programação, incluindo HTML, CSS, JavaScript, TypeScript, Python e React. Embora também tenha tido algum contato com Java e C#, a linguagem com a qual mais me identifico e pretendo me especializar é o Python.
-🖥️ Estou sempre em busca de oportunidades para colaborar em projetos, a fim de aprimorar minhas habilidades e conhecimentos, visando um crescimento constante.
-- 📫 Contato: E-mail: taleshmm@hotmail.com / Instagram: @taleshmm / GitHub: @taleshmm / Linkedin: https://www.linkedin.com/in/taleshmm/
+👋 Hello, I'm Tales Melo, a Law graduate. However, my passion for programming led me to explore the field of Information Technology. Fascinated by computers and curious about how programs work and are developed, I decided to pursue a career in this wonderful area. Currently, I'm studying Systems Analysis and Development at INFNET. I've worked as a Junior Full-stack Developer, working on both front-end and back-end, primarily using React with Typescript and Node.js.
+👀 My current interest is focused on programming, especially in the field of Artificial Intelligence.
+🌱 I've had experience with various programming languages, including HTML, CSS, JavaScript, TypeScript, Python, and React. Although I've also had some exposure to Java and C#, the language I identify with the most and intend to specialize in is Python.
+🖥️ I'm always looking for opportunities to collaborate on projects to enhance my skills and knowledge, aiming for constant growth.
+- 📫 Contact: Email: taleshmm@hotmail.com / Instagram: @taleshmm / GitHub: @taleshmm / Linkedin: https://www.linkedin.com/in/taleshmm/
+
 
 <!---
 taleshmm/taleshmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
